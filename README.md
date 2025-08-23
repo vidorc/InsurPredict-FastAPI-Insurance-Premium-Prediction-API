@@ -1,18 +1,25 @@
-InsurPredict: FastAPI Insurance Premium Prediction API
+InsurPredict: FastAPI Insurance Premium Prediction API 🩺
+<p align="center">
+<img src="https://placehold.co/1200x400/111827/06B6D4?text=InsurPredict+API" alt="InsurPredict Banner"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+<img src="https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License Badge">
+</p>
+
 A high-performance, containerized API for predicting insurance premiums using a machine learning model, built with FastAPI and Docker.
 
 📖 Table of Contents
-About The Project
+🧐 About The Project
 
 ✨ Features
 
 🛠️ Technology Stack
 
 🚀 Getting Started
-
-Prerequisites
-
-Installation & Setup
 
 🐳 Running with Docker
 
@@ -82,7 +89,7 @@ Run the application locally:
 
 uvicorn main:app --reload
 
-The application will be available at http://127.0.0.1:8000. You can access the interactive API docs at http://127.0.0.1:8000/docs.
+The application will be available at http://127.0.0.1:8000. You can access the interactive API docs at http://120.0.0.1:8000/docs.
 
 🐳 Running with Docker
 The easiest way to run the application is by using Docker.
